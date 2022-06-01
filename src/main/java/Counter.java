@@ -8,19 +8,19 @@ public class Counter {
 		this.reset();
 	}
 		
-	public void reset() {
+	public void reset() {}
 		count = 0;
 	}
 	
-	public void increment() {
+	public void increment() {}
 		count++;
 	}
 	
-	public void decrement() {
+	public void decrement() {}
 		count--;
 	}
 	
-	public int getCount() {
+	public int getCount() {}
 		return count;
 	}
 	
